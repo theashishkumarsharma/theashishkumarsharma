@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Ashish Kumar Sharma 👋
 
-<!--
-**theashishkumarsharma/theashishkumarsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I'm a passionate web developer focused on creating clean, functional, and user-friendly web applications. I enjoy tackling new challenges and am always eager to learn new technologies to improve my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js
+- **Database:** MySQL
+- **Tools & Workflow:** Git, Deployment
+
+---
+
+### 🌱 Current Focus
+
+- Expanding my expertise in full-stack web development.
+- Always ready and excited to learn more and take on new challenges.
+
+---
+
+### 📫 Let's Connect!
+
+*(Contact details and projects will be added soon)*
